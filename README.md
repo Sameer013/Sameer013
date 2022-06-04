@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sameer013
-- 👀 I’m interested in Web Development and AI
+- 👀 I’m interested in Web Development and Data Science
 - 🌱 I know Python and currently learning C++ and Web Development
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me on discord clarno#1165
