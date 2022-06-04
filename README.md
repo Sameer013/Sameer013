@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sameer013
+- 👋 Hi, I’m Sameer
 - 👀 I’m interested in Web Development and Data Science
 - 🌱 I know Python and currently learning C++ and Web Development
 - 💞️ I’m looking to collaborate on Open Source Projects
