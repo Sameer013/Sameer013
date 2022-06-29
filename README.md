@@ -2,7 +2,9 @@
 - 👀 I’m interested in Web Development and Data Science
 - 🌱 I know Python,C++ and currently learning Web Development
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me on discord clarno#1165
+- 📫 How to reach me: 
+-   -> Discord: clarno#1165
+-   -> Mail: clarno06@gmail.com
 
 <!---
 Sameer013/Sameer013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
