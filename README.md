@@ -1,12 +1,16 @@
-- 👋 Hi, I’m Sameer
-- 👀 I’m interested in Web Development,Data Science and Linux System Administration
-- 🌱 I work with Python, Java, C and Javascript
-- 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me: 
--   -> Discord: clarno#1165
--   -> Mail: clarno06@gmail.com
+# 👋 Hi, I’m Sameer  
 
-<!---
-Sameer013/Sameer013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 About Me  
+- I’m interested in **Web Development**, **Software Development**, **Machine Learning & AI**, and **Linux OS**.  
+- I work with **Python**, **Java**, **C**, and **JavaScript**.  
+
+### 🌱 What I’m Up To  
+- Exploring **Open Source Projects** and looking to collaborate.  
+
+### 📫 How to Reach Me  
+- **Discord**: `clarno#1165`  
+- **Email**: [clarno06@gmail.com](mailto:clarno06@gmail.com)  
+
+---
+
+> 🚀 *Let's build something amazing together!*  
