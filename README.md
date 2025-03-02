@@ -2,7 +2,7 @@
 
 ### 👀 About Me  
 - I’m interested in **Web Development**, **Software Development**, **Machine Learning & AI**.  
-- I work with **Python**, **Java**, **C**, and **JavaScript**.  
+- I work with **Python**, **Java**, and **JavaScript**,**C**, **Go**.  
 
 ### 🌱 What I’m Up To  
 - Exploring **Open Source Projects** and looking to collaborate.  
