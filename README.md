@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sameer  
 
 ### 👀 About Me  
-- I’m interested in **Web Development**, **Software Development**, **Machine Learning & AI**.  
+- I’m into **Web Development**, **Software Development**, **Machine Learning & AI**.  
 - I work with **Python**, **Java**, **JavaScript**, **C** and **Go**.  
 
 ### 🌱 What I’m Up To  
