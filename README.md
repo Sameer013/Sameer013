@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sameer  
 
 ### 👀 About Me  
-- I’m into **Web Development**, **Software Development**, **Machine Learning & AI**.  
+- I’m into **PWA**, **Software Development**, **Machine Learning & AI** and the **Infra** hosting them all.  
 - I work with **Python**, **Java**, **JavaScript**, **C++** and **Go**.  
 
 ### 🌱 What I’m Up To  
